@@ -4,3 +4,4 @@ Lizenz: …
 Compilieren
 ===========
 
+Der Haskell-Compiler muss der von GHC sein
